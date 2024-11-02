@@ -6,6 +6,15 @@ mengembangkan, dan mencari lowongan pekerjaan yang sesuai dengan minat mereka.
 # React + Vite
 npm run dev to start/test project
 
+# TEAM:
+<li>Suci Larasati (Techno)</li>
+<li>Nikhmatul Hidayah (UI/UX)</li>
+<li>Dhimmas Parikesit (UI/UX)</li>
+<li>Afzaal Isnaufal (FE)</li>
+<li>M Jeisa Ganela P (FE)</li>
+<li>Zaidan Rasyid (BE)</li>
+
+
 # Progress Slicing Design
 
 Berikut adalah progress pengembangan fitur-fitur dalam proyek ini:
